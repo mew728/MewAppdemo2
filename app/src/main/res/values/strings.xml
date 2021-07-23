@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">水果商城</string>
+    <string-array name="seasonfruit_list">
+        <item>台灣椪柑</item>
+        <item>富士蘋果</item>
+        <item>香蕉</item>
+        <item>大湖草莓</item>
+        <item>巨峰葡萄</item>
+    </string-array>
+    <string-array name="seasonfruit_icon_list">
+        <item>@drawable/orange</item>
+        <item>@drawable/apple</item>
+        <item>@drawable/banana</item>
+        <item>@drawable/stra</item>
+        <item>@drawable/garpe</item>
+    </string-array>
+    <string-array name="seasonfruit_price_list">
+        <item>30</item>
+        <item>35</item>
+        <item>25</item>
+        <item>100</item>
+        <item>50</item>
+    </string-array>
+    <!--Next~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+    <string-array name="importedfruit_list">
+        <item>高級牛油果</item>
+        <item>紐西蘭奇異果</item>
+        <item>高級櫻桃</item>
+        <item>進口藍莓</item>
+        <item>越南芒果</item>
+    </string-array>
+    <string-array name="importedfruit_icon_list">
+        <item>@drawable/avocado</item>
+        <item>@drawable/kiwi</item>
+        <item>@drawable/cherry</item>
+        <item>@drawable/blueberry</item>
+        <item>@drawable/mango</item>
+    </string-array>
+    <string-array name="importedfruit_price_list">
+        <item>200</item>
+        <item>70</item>
+        <item>300</item>
+        <item>375</item>
+        <item>20</item>
+    </string-array>
+    <!--Next~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+    <string-array name="fruitbox_list">
+        <item>熱帶水果組合</item>
+        <item>高級水果禮盒</item>
+        <item>蘋果禮盒</item>
+        <item>水果禮盒</item>
+    </string-array>
+    <string-array name="fruitbox_icon_list">
+        <item>@drawable/fruitbox_tropical</item>
+        <item>@drawable/fruitbox_nice</item>
+        <item>@drawable/fruitbox_apple</item>
+        <item>@drawable/fruitbox_basic</item>
+    </string-array>
+    <string-array name="fruitbox_price_list">
+        <item>800</item>
+        <item>1100</item>
+        <item>550</item>
+        <item>750</item>
+    </string-array>
+    <!--common~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+    <string-array name="mark_type1_list">
+        <item>$</item>
+        <item>$</item>
+        <item>$</item>
+        <item>$</item>
+        <item>$</item>
+    </string-array>
+    <string-array name="mark_type2_list">
+        <item>$</item>
+        <item>$</item>
+        <item>$</item>
+        <item>$</item>
+    </string-array>
+    <string-array name="mark_g_list">
+        <item>/500g</item>
+        <item>/500g</item>
+        <item>/500g</item>
+        <item>/500g</item>
+        <item>/500g</item>
+    </string-array>
+</resources>

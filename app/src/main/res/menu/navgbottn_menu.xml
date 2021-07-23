@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigationbotton_season"
+        android:icon="@drawable/banana"
+        android:title="當季水果" />
+
+    <item
+        android:id="@+id/navigationbotton_imported"
+        android:icon="@drawable/avocado"
+        android:title="進口水果" />
+
+    <item
+        android:id="@+id/navigationbotton_box"
+        android:icon="@drawable/fruitbox_basic"
+        android:title="水果禮盒" />
+
+</menu>
